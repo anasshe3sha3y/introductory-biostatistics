@@ -1,10 +1,9 @@
 ---
-title: 'Chapter 2: More stuff'
+title: 'Chapter 2: Descriptive Statistics'
 description:
-  'This chapter will teach you even more stuff and help you learn some new
-  concepts.'
+  'In this chapter you will learn about the different ways of summarizing data visually and numerically.'
 prev: /chapter1
-next: null
+next: /chapter3
 type: chapter
 id: 2
 ---
