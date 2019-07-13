@@ -1,8 +1,7 @@
 ---
-title: 'Chapter 1: Getting started'
+title: 'Chapter 1: Introduction to Statistics'
 description:
-  'This chapter will teach you about many cool things and introduce you to the
-  most important concepts of the course.'
+  'This chapter will give you an overview of statistics and why researchers in all scientific fields use it in their practice. it will also teach you the terminology commonly used in statistics'
 prev: null
 next: /chapter2
 type: chapter
@@ -12,8 +11,6 @@ id: 1
 <exercise id="1" title="Introduction" type="slides">
 
 <slides source="chapter1_01_introduction">
-</slides>
-
 </exercise>
 
 <exercise id="2" title="Getting Started">
