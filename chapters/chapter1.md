@@ -1,7 +1,7 @@
 ---
 title: 'Chapter 1: Introduction to Statistics'
 description:
-  'This chapter will give you an overview of statistics and why researchers in all scientific fields use it in their practice. it will also teach you the terminology commonly used in statistics'
+  'This chapter will give you an overview of statistics and why researchers use it in their practice. it will also teach you the terminology commonly used in statistics.'
 prev: null
 next: /chapter2
 type: chapter

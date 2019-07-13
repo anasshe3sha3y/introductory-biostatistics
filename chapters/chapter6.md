@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 6: Statistical Inference - Hypothesis Testing'
+title: 'Chapter 6: Inferential Statistics - Hypothesis Testing'
 description:
   'You will learn how to confirm hypotheses about populations using sample measurements. you will learn how to assess your confidence in these hypotheses in a quantitative manner.'
 prev: /chapter5

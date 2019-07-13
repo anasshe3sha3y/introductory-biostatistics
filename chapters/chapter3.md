@@ -1,7 +1,7 @@
 ---
-title: 'Chapter 3: Probabilities and Sampling Distributions'
+title: 'Chapter 3: Probability Theory and Sampling Distributions'
 description:
-  'You will know the basics of probability theory. You will apply this knowledge in the process of sampling from populations.'
+  'You will learn the basics of probability theory. You will apply this knowledge in sampling from populations.'
 prev: /chapter2
 next: /chapter4
 type: chapter
