@@ -1,58 +1,45 @@
 ---
 title: 'Chapter 1: Introduction to Statistics'
 description:
-  'This chapter will give you an overview of statistics and why researchers use it in their practice. it will also teach you the terminology commonly used in statistics.'
-prev: null
-next: /chapter2
-type: chapter
-id: 1
+'This chapter will give you an overview of statistics and why researchers use it in their practice. it will also teach you the terminology commonly used in statistics.'
+prev:         null
+next:         /chapter2
+type:         chapter
+id:           1
 ---
 
-<exercise id="1" title="Introduction" type="slides">
+<exercise id="10" title="Introduction1" type="slides">
 
-<slides source="chapter1_01_introduction">
-</exercise>
-
-<exercise id="2" title="Getting Started">
-
-Let's ask some questions about the slides. Whats the correct answer?
-
-<choice>
-<opt text="Answer one">
-
-This is not the correct answer.
-
-</opt>
-
-<opt text="Answer two" correct="true">
-
-Good job!
-
-</opt>
-
-<opt text="Answer three">
-
-This is not correct either.
-
-</opt>
-</choice>
+  <slides source="chapter1_01_introduction">
 
 </exercise>
 
-<exercise id="3" title="First steps">
+<exercise id="20" title="Getting Started">
 
-This is a code exercise. The content can be formatted in simple Markdown – so
-you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
-the one for the instructions below.
+  Let's ask some questions about the slides. Whats the correct answer?
 
-- These are instructions and they can have bullet points.
-- The code block below will look for the files `exc_01_03`, `solution_01_03` and
+  <choice>
+
+    <opt text="Answer one">This is not the correct answer.</opt>
+
+    <opt text="Answer two" correct="true">Good job!</opt>
+
+    <opt text="Answer three">This is not correct either.</opt>
+
+  </choice>
+
+</exercise>
+
+<exercise id="30" title="First steps">
+
+  This is a code exercise. The content can be formatted in simple Markdown – so
+  you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
+  the one for the instructions below.
+
+  - These are instructions and they can have bullet points.
+  - The code block below will look for the files `exc_01_03`, `solution_01_03` and
   `test_01_03` in `/exercises`.
 
-<codeblock id="01_03">
-
-This is a hint.
-
-</codeblock>
+  <codeblock id="01_03">This is a hint.</codeblock>
 
 </exercise>
