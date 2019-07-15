@@ -8,7 +8,7 @@ type:         chapter
 id:           1
 ---
 
-<exercise id="10" title="Introduction1" type="slides">
+<exercise id="10" title="Introduction" type="slides">
 
   <slides source="chapter1_01_introduction">
 
